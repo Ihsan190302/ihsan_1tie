@@ -2,6 +2,8 @@
     include '../model/databasemahasiswa.php';
     $db = new database();
 ?>
+
+
 <h1>DATA MAHASISWA</h1>
 <form action="../controller/prosesmahasiswa.php?aksi=update" method="post">
 <?php
