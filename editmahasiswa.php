@@ -32,7 +32,7 @@
     <tr>
         <td></td>
         <td>
-            <input type="submit" value="Simpan">
+            <input type="submit" value="SIMPAN">
         </td>
     </tr>
 </table>              
